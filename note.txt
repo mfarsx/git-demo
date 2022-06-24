@@ -4,3 +4,6 @@ git init
 git add .
 git commit -m 'commit mesage'
 git add 'fileName'
+git branch 
+git branch 'newBranchName'
+git switch 'branchName'
