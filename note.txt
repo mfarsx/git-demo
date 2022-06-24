@@ -3,3 +3,4 @@ git log
 git init
 git add .
 git commit -m 'commit mesage'
+git add 'fileName'
