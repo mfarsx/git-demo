@@ -7,3 +7,5 @@ git add 'fileName'
 git branch 
 git branch 'newBranchName'
 git switch 'branchName'
+git merge feature > (in master) master += feature
+git merge master > (in feature) feature += master
