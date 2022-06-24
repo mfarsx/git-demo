@@ -10,3 +10,8 @@ git switch 'branchName'
 git merge feature > (in master) master += feature
 git merge master > (in feature) feature += master
 merge conflict
+git stash list
+git stash apply stash@{0}
+git stash clear
+git stash apply
+git stash pop
