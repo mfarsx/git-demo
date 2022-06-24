@@ -24,4 +24,5 @@ git diff
 git diff HEAD
 git diff txID txID
 git diff branch branch
-git rebase branch 
+git rebase branch
+git push origin branch
