@@ -16,3 +16,4 @@ git stash clear
 git stash apply
 git stash pop
 git restore <file>
+git checkout txID
