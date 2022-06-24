@@ -17,3 +17,5 @@ git stash apply
 git stash pop
 git restore <file>
 git checkout txID
+git reset txID
+git reset --hard txID
