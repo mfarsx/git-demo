@@ -19,3 +19,4 @@ git restore <file>
 git checkout txID
 git reset txID
 git reset --hard txID
+git rever txID <commit>
