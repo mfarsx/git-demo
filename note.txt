@@ -19,4 +19,8 @@ git restore <file>
 git checkout txID
 git reset txID
 git reset --hard txID
-git rever txID <commit>
+git revert txID <commit>
+git diff
+git diff HEAD
+git diff txID txID
+git diff branch branch
